@@ -1,0 +1,7 @@
+*_pb.js
+helloworld/node_modules/
+package-lock.json
+ConsoleApp9/bin
+ConsoleApp9/obj
+GrpcService1/bin
+GrpcService1/obj
